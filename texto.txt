@@ -1,3 +1,45 @@
 arquivo de texto, de repositório.
 
 Eu sou a primeira modificação.
+Nome: Clicia Maria Alves Nascimento
+Idade: 36
+Estudante de front-end atualmente, penso estudar um back-end.
+----------------------------------------------------------------------------------------------------------------------
+
+Comandos do git:
+**pull: (sign.puxar) os arquivos que foram modificados.
+**push: (sign.empurar) as modificações para o repositorio ou fazendo upload.
+**git clone: (sign.uma copia) do repositorio para a sua IDE.
+***clonar branch: (sign.ramificação) de uma parte do codigo original.
+
+***git branch: (sign.manipular as ramificão ja existentes)
+*"git branch <nome da branch>"
+
+**criar a branch e ja enviar aos repositório ao mesmo tempo
+*"git push -u <local-remoto><nome da branch>"
+
+**deletar branch:
+*"git branch -d"
+
+**'git merge <nome-da-branch-com-o-recurso>'
+
+**git status: confere se precisamos fazer pull ou push
+
+
+
+---------------------------------------------------------------------------------------------
+
+echo "# aula-11" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/30014001/aula-11.git
+git push -u origin main
+
+
+---------------------------------------------
+
+git remote add origin https://github.com/30014001/aula-11.git
+git branch -M main
+git push -u origin main
