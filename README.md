@@ -1,9 +1,9 @@
-#Aula_happy code
-Tecnologias
+# Aula_happy code
+## Tecnologias
 Projeto desenvolvido com as seguintes tecnologias:
 
-TXT
+- TXT
 
-Projeto
+### Projeto
 Desenvolvi com os principais comando do GIT.
 
